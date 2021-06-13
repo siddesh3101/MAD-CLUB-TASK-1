@@ -93,11 +93,11 @@ public class Quiz {
                 }
             }
             System.out.println("(" + response1 + ") " + "unrecognizable " + " Please enter 1 0r 2 to continue Thank you. ");
-            response = sc.nextLine();
+            response1 = sc.nextLine();
         }
         GKonindia gk = new GKonindia();
         Sports sports = new Sports();
-        switch (response) {
+        switch (response1) {
             case "0":
                 System.out.println("Press 1 or 2 to continue.");
             case "1":
