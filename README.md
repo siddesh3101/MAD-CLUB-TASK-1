@@ -1,10 +1,6 @@
-"# MAD-CLUB-TASK-1"**************** 
-"# MAD-CLUB-TASK-1" 
-"# MAD-CLUB-TASK-1" 
-"# MAD-CLUB-TASK-1" 
-# MAD-CLUB-TASK-1
-# MAD-CLUB-TASK-1
-# MAD-CLUB-TASK-1
+
+# Screen Shots
+
 ![](Screen%20Shot/Task1%20%E2%80%93%20Quiz.java%206_13_2021%209_19_30%20PM.png)
 ![](Screen%20Shot/Task1%20%E2%80%93%20Quiz.java%206_13_2021%209_19_38%20PM.png)
 ![](Screen%20Shot/Task1%20%E2%80%93%20Quiz.java%206_13_2021%209_19_53%20PM.png)
